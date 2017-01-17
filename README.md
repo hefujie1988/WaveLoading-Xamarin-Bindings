@@ -3,8 +3,6 @@
 This library provides a *wave loading* animation as a **Drawable**.
 
 ![screenshot](./screenshots/screenshot.gif)
-![screenshot](https://github.com/iamIcarus/WaveLoading-Xamarin-Bindings/blob/master/screenshots/screenshot.gif)
-
 
 ## How to use
 
